@@ -29,5 +29,5 @@ As an administrator, I want an admin panel to manage user accounts, monitor plat
 User Story: As an administrator, I want a comprehensive admin panel that allows me to review and manage user accounts, view analytics and metrics related to platform activity, and handle any reported disputes or issues promptly and effectively.
 These user stories encompass the essential needs and expectations of buyers, sellers, and administrators within the ecommerce marketplace. By addressing these stories in the MVP, we ensure that the core functionality of the platform meets the requirements of different user roles and delivers a valuable experience to all stakeholders.
 
-
+https://www.linkedin.com/pulse/market-craft-blog-post-dagogo-charles/
  
